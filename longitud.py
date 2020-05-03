@@ -1,4 +1,4 @@
-PI = 3.1416
+PI = 3.1416 #PI number
 
 radio = input("Please, enter the radius of the circumference: ")
 
