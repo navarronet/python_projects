@@ -1,6 +1,6 @@
 PI = 3.1416
 
-radio = input("Please enter the radius of the circumference: ")
+radio = input("Please, enter the radius of the circumference: ")
 
 longitud = 2 * PI * float(radio)
 
